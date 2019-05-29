@@ -1,0 +1,2153 @@
+addable  - addax
+afric  - african elephant
+afric  - african forest elephant
+afric  - african lions
+afric  - african penguin
+afric  - african spurred tortoise
+afric  - african wild dog
+afric  - africanized bees
+african  - african elephant
+african  - african forest elephant
+african  - african lions
+african  - african penguin
+african  - african spurred tortoise
+african  - african wild dog
+african  - africanized bees
+allective  - allen&#8217;s swamp monkeys
+allegeable  - allen&#8217;s swamp monkeys
+allegiant  - allen&#8217;s swamp monkeys
+allegoric  - allen&#8217;s swamp monkeys
+allemannic  - allen&#8217;s swamp monkeys
+allenarly  - allen&#8217;s swamp monkeys
+alleviative  - allen&#8217;s swamp monkeys
+alleviatory  - allen&#8217;s swamp monkeys
+alleyed  - allen&#8217;s swamp monkeys
+alliable  - alligator
+alliable  - allis shad
+allicient  - alligator
+allicient  - allis shad
+allied  - alligator
+allied  - allis shad
+alpigene  - alpine ibex
+alpine  - alpine ibex
+amazedly  - amazonian manatee
+amazeful  - amazonian manatee
+amazonian  - amazonian manatee
+amerceable  - american oystercatcher bird
+american  - american oystercatcher bird
+anacathartic  - anaconda snake
+anachoret  - anaconda snake
+anachronic  - anaconda snake
+anachronistic  - anaconda snake
+anachronous  - anaconda snake
+anacoluthic  - anaconda snake
+anacrotic  - anaconda snake
+angelic  - angelfish
+angelically  - angelfish
+angerly  - angelfish
+angevine  - angelfish
+antecedaneous  - anteater
+antecedaneous  - antelope
+antemeridian  - anteater
+antemeridian  - antelope
+antemetic  - anteater
+antemetic  - antelope
+antemosaic  - anteater
+antemosaic  - antelope
+antemundane  - anteater
+antemundane  - antelope
+antenatal  - anteater
+antenatal  - antelope
+antennal  - anteater
+antennal  - antelope
+antenniferous  - anteater
+antenniferous  - antelope
+antenniform  - anteater
+antenniform  - antelope
+antepenultimate  - anteater
+antepenultimate  - antelope
+antephialtic  - anteater
+antephialtic  - antelope
+antepileptic  - anteater
+antepileptic  - antelope
+anteprandial  - anteater
+anteprandial  - antelope
+anterior  - anteater
+anterior  - antelope
+anteriorly  - anteater
+anteriorly  - antelope
+aquarial  - aquatic warbler
+aquarian  - aquatic warbler
+aquatical  - aquatic warbler
+aquatile  - aquatic warbler
+asian  - asian elephant
+asian  - asian lion
+asiatic  - asian elephant
+asiatic  - asian lion
+atlantal  - atlantic puffin
+atlantal  - atlantic spotted dolphins
+atlantal  - atlas beetle
+atlantic  - atlantic puffin
+atlantic  - atlantic spotted dolphins
+atlantic  - atlas beetle
+austerely  - australasian grebe
+austerely  - australian pelican
+austerely  - australian swiftlet
+australian  - australasian grebe
+australian  - australian pelican
+australian  - australian swiftlet
+bacterial  - bactrian camels
+bactericidal  - bactrian camels
+bacteroid  - bactrian camels
+bactrian  - bactrian camels
+badgeless  - badger
+bearable  - bear
+bearded  - bear
+beardless  - bear
+bearish  - bear
+bengalese  - bengal tigers
+birdlike  - bird
+birdlike  - birds
+bitterful  - bittern
+bitterish  - bittern
+bitterly  - bittern
+black  - black caimans
+black  - black house spider
+black  - black mamba snakes
+black  - black necked stilt
+black  - black rhinoceros
+black  - black widow spider
+black  - blacktip reef shark
+black  - blacktip shark
+blackish  - black caimans
+blackish  - black house spider
+blackish  - black mamba snakes
+blackish  - black necked stilt
+blackish  - black rhinoceros
+blackish  - black widow spider
+blackish  - blacktip reef shark
+blackish  - blacktip shark
+blissless  - blister beetle
+blistery  - blister beetle
+bluely  - blue and yellow macaw
+bluely  - blue whale
+bluely  - blue-footed booby bird
+bluey  - blue and yellow macaw
+bluey  - blue whale
+bluey  - blue-footed booby bird
+boarish  - boar
+bottled  - bottlenose dolphins
+bottony  - bottlenose dolphins
+branchial  - brandling worms
+branching  - brandling worms
+branchiostegal  - brandling worms
+branchiostegous  - brandling worms
+branchless  - brandling worms
+branchy  - brandling worms
+branny  - brandling worms
+brant  - brandling worms
+branular  - brandling worms
+brazenfaced  - brazilian wandering spider
+brazilian  - brazilian wandering spider
+british  - british mice
+british  - british moles
+british  - british water vole
+british  - british wild cats
+briton  - british mice
+briton  - british moles
+briton  - british water vole
+briton  - british wild cats
+brittle  - british mice
+brittle  - british moles
+brittle  - british water vole
+brittle  - british wild cats
+brittlely  - british mice
+brittlely  - british moles
+brittlely  - british water vole
+brittlely  - british wild cats
+broaden  - broad-snouted caimans
+broadish  - broad-snouted caimans
+broadly  - broad-snouted caimans
+broadspread  - broad-snouted caimans
+broadspreading  - broad-snouted caimans
+broadwise  - broad-snouted caimans
+browbound  - brown recluse spider
+browbound  - brown trout
+browless  - brown recluse spider
+browless  - brown trout
+brownish  - brown recluse spider
+brownish  - brown trout
+buttony  - butterflies
+buttony  - butterfly
+buzzard  - buzzard
+buzzingly  - buzzard
+camelshair  - camels
+cameralistic  - camels
+campaniform  - campbell&#8217;s dwarf hamster
+campaniliform  - campbell&#8217;s dwarf hamster
+campanulate  - campbell&#8217;s dwarf hamster
+campestral  - campbell&#8217;s dwarf hamster
+camphoraceous  - campbell&#8217;s dwarf hamster
+cardiacal  - cardinal birds
+cardinal  - cardinal birds
+cardioinhibitory  - cardinal birds
+caribbean  - caribbean reef shark
+caribbean  - caribou
+carinate  - caribbean reef shark
+carinate  - caribou
+centenarian  - centipede
+centenary  - centipede
+centennial  - centipede
+centennially  - centipede
+centesimal  - centipede
+centicipitous  - centipede
+centifidous  - centipede
+centifolious  - centipede
+centigrade  - centipede
+central  - centipede
+centrally  - centipede
+centric  - centipede
+centrical  - centipede
+centrolineal  - centipede
+centrostaltic  - centipede
+centuple  - centipede
+centuplicate  - centipede
+characteristical  - characteristics
+characteristically  - characteristics
+characterless  - characteristics
+chargeable  - characteristics
+chargeably  - characteristics
+chargeant  - characteristics
+chargeful  - characteristics
+chargeous  - characteristics
+charily  - characteristics
+charismatic  - characteristics
+charitable  - characteristics
+charitably  - characteristics
+charlatanic  - characteristics
+charlatanical  - characteristics
+charmful  - characteristics
+charming  - characteristics
+charmless  - characteristics
+charnel  - characteristics
+chartaceous  - characteristics
+chartless  - characteristics
+cheeked  - cheetah
+cheerful  - cheetah
+cheerily  - cheetah
+cheeringly  - cheetah
+cheerly  - cheetah
+chimeric  - chimpanzee
+chimerically  - chimpanzee
+chinche  - chinchilla
+chinche  - chinese hamsters
+chinche  - chinstrap penguin
+chined  - chinchilla
+chined  - chinese hamsters
+chined  - chinstrap penguin
+chinese  - chinchilla
+chinese  - chinese hamsters
+chinese  - chinstrap penguin
+chinky  - chinchilla
+chinky  - chinese hamsters
+chinky  - chinstrap penguin
+chipper  - chipmunk
+chrismal  - christmas beetle
+christian  - christmas beetle
+christianlike  - christmas beetle
+christianly  - christmas beetle
+christless  - christmas beetle
+christly  - christmas beetle
+cicatrisive  - cicada killer wasps
+cicatrose  - cicada killer wasps
+clicky  - click beetle
+commandable  - commerson dolphin
+commandable  - common buzzard
+commandable  - common dolphin
+commandable  - common frog
+commandable  - common hippopotamus
+commandable  - common kingfisher
+commandable  - common lizard
+commandable  - common newt
+commandable  - common palm civet
+commandable  - common seal
+commandable  - common toad
+commandable  - common wasps
+commandingly  - commerson dolphin
+commandingly  - common buzzard
+commandingly  - common dolphin
+commandingly  - common frog
+commandingly  - common hippopotamus
+commandingly  - common kingfisher
+commandingly  - common lizard
+commandingly  - common newt
+commandingly  - common palm civet
+commandingly  - common seal
+commandingly  - common toad
+commandingly  - common wasps
+commaterial  - commerson dolphin
+commaterial  - common buzzard
+commaterial  - common dolphin
+commaterial  - common frog
+commaterial  - common hippopotamus
+commaterial  - common kingfisher
+commaterial  - common lizard
+commaterial  - common newt
+commaterial  - common palm civet
+commaterial  - common seal
+commaterial  - common toad
+commaterial  - common wasps
+commatic  - commerson dolphin
+commatic  - common buzzard
+commatic  - common dolphin
+commatic  - common frog
+commatic  - common hippopotamus
+commatic  - common kingfisher
+commatic  - common lizard
+commatic  - common newt
+commatic  - common palm civet
+commatic  - common seal
+commatic  - common toad
+commatic  - common wasps
+commeasurable  - commerson dolphin
+commeasurable  - common buzzard
+commeasurable  - common dolphin
+commeasurable  - common frog
+commeasurable  - common hippopotamus
+commeasurable  - common kingfisher
+commeasurable  - common lizard
+commeasurable  - common newt
+commeasurable  - common palm civet
+commeasurable  - common seal
+commeasurable  - common toad
+commeasurable  - common wasps
+commemorable  - commerson dolphin
+commemorable  - common buzzard
+commemorable  - common dolphin
+commemorable  - common frog
+commemorable  - common hippopotamus
+commemorable  - common kingfisher
+commemorable  - common lizard
+commemorable  - common newt
+commemorable  - common palm civet
+commemorable  - common seal
+commemorable  - common toad
+commemorable  - common wasps
+commemorative  - commerson dolphin
+commemorative  - common buzzard
+commemorative  - common dolphin
+commemorative  - common frog
+commemorative  - common hippopotamus
+commemorative  - common kingfisher
+commemorative  - common lizard
+commemorative  - common newt
+commemorative  - common palm civet
+commemorative  - common seal
+commemorative  - common toad
+commemorative  - common wasps
+commemoratory  - commerson dolphin
+commemoratory  - common buzzard
+commemoratory  - common dolphin
+commemoratory  - common frog
+commemoratory  - common hippopotamus
+commemoratory  - common kingfisher
+commemoratory  - common lizard
+commemoratory  - common newt
+commemoratory  - common palm civet
+commemoratory  - common seal
+commemoratory  - common toad
+commemoratory  - common wasps
+commendable  - commerson dolphin
+commendable  - common buzzard
+commendable  - common dolphin
+commendable  - common frog
+commendable  - common hippopotamus
+commendable  - common kingfisher
+commendable  - common lizard
+commendable  - common newt
+commendable  - common palm civet
+commendable  - common seal
+commendable  - common toad
+commendable  - common wasps
+commendatory  - commerson dolphin
+commendatory  - common buzzard
+commendatory  - common dolphin
+commendatory  - common frog
+commendatory  - common hippopotamus
+commendatory  - common kingfisher
+commendatory  - common lizard
+commendatory  - common newt
+commendatory  - common palm civet
+commendatory  - common seal
+commendatory  - common toad
+commendatory  - common wasps
+commensal  - commerson dolphin
+commensal  - common buzzard
+commensal  - common dolphin
+commensal  - common frog
+commensal  - common hippopotamus
+commensal  - common kingfisher
+commensal  - common lizard
+commensal  - common newt
+commensal  - common palm civet
+commensal  - common seal
+commensal  - common toad
+commensal  - common wasps
+commensurably  - commerson dolphin
+commensurably  - common buzzard
+commensurably  - common dolphin
+commensurably  - common frog
+commensurably  - common hippopotamus
+commensurably  - common kingfisher
+commensurably  - common lizard
+commensurably  - common newt
+commensurably  - common palm civet
+commensurably  - common seal
+commensurably  - common toad
+commensurably  - common wasps
+commensurate  - commerson dolphin
+commensurate  - common buzzard
+commensurate  - common dolphin
+commensurate  - common frog
+commensurate  - common hippopotamus
+commensurate  - common kingfisher
+commensurate  - common lizard
+commensurate  - common newt
+commensurate  - common palm civet
+commensurate  - common seal
+commensurate  - common toad
+commensurate  - common wasps
+commensurately  - commerson dolphin
+commensurately  - common buzzard
+commensurately  - common dolphin
+commensurately  - common frog
+commensurately  - common hippopotamus
+commensurately  - common kingfisher
+commensurately  - common lizard
+commensurately  - common newt
+commensurately  - common palm civet
+commensurately  - common seal
+commensurately  - common toad
+commensurately  - common wasps
+commentatorial  - commerson dolphin
+commentatorial  - common buzzard
+commentatorial  - common dolphin
+commentatorial  - common frog
+commentatorial  - common hippopotamus
+commentatorial  - common kingfisher
+commentatorial  - common lizard
+commentatorial  - common newt
+commentatorial  - common palm civet
+commentatorial  - common seal
+commentatorial  - common toad
+commentatorial  - common wasps
+commercially  - commerson dolphin
+commercially  - common buzzard
+commercially  - common dolphin
+commercially  - common frog
+commercially  - common hippopotamus
+commercially  - common kingfisher
+commercially  - common lizard
+commercially  - common newt
+commercially  - common palm civet
+commercially  - common seal
+commercially  - common toad
+commercially  - common wasps
+commiserable  - commerson dolphin
+commiserable  - common buzzard
+commiserable  - common dolphin
+commiserable  - common frog
+commiserable  - common hippopotamus
+commiserable  - common kingfisher
+commiserable  - common lizard
+commiserable  - common newt
+commiserable  - common palm civet
+commiserable  - common seal
+commiserable  - common toad
+commiserable  - common wasps
+commiserative  - commerson dolphin
+commiserative  - common buzzard
+commiserative  - common dolphin
+commiserative  - common frog
+commiserative  - common hippopotamus
+commiserative  - common kingfisher
+commiserative  - common lizard
+commiserative  - common newt
+commiserative  - common palm civet
+commiserative  - common seal
+commiserative  - common toad
+commiserative  - common wasps
+commissarial  - commerson dolphin
+commissarial  - common buzzard
+commissarial  - common dolphin
+commissarial  - common frog
+commissarial  - common hippopotamus
+commissarial  - common kingfisher
+commissarial  - common lizard
+commissarial  - common newt
+commissarial  - common palm civet
+commissarial  - common seal
+commissarial  - common toad
+commissarial  - common wasps
+commissional  - commerson dolphin
+commissional  - common buzzard
+commissional  - common dolphin
+commissional  - common frog
+commissional  - common hippopotamus
+commissional  - common kingfisher
+commissional  - common lizard
+commissional  - common newt
+commissional  - common palm civet
+commissional  - common seal
+commissional  - common toad
+commissional  - common wasps
+commissural  - commerson dolphin
+commissural  - common buzzard
+commissural  - common dolphin
+commissural  - common frog
+commissural  - common hippopotamus
+commissural  - common kingfisher
+commissural  - common lizard
+commissural  - common newt
+commissural  - common palm civet
+commissural  - common seal
+commissural  - common toad
+commissural  - common wasps
+committable  - commerson dolphin
+committable  - common buzzard
+committable  - common dolphin
+committable  - common frog
+committable  - common hippopotamus
+committable  - common kingfisher
+committable  - common lizard
+committable  - common newt
+committable  - common palm civet
+committable  - common seal
+committable  - common toad
+committable  - common wasps
+committible  - commerson dolphin
+committible  - common buzzard
+committible  - common dolphin
+committible  - common frog
+committible  - common hippopotamus
+committible  - common kingfisher
+committible  - common lizard
+committible  - common newt
+committible  - common palm civet
+committible  - common seal
+committible  - common toad
+committible  - common wasps
+commodiously  - commerson dolphin
+commodiously  - common buzzard
+commodiously  - common dolphin
+commodiously  - common frog
+commodiously  - common hippopotamus
+commodiously  - common kingfisher
+commodiously  - common lizard
+commodiously  - common newt
+commodiously  - common palm civet
+commodiously  - common seal
+commodiously  - common toad
+commodiously  - common wasps
+commonable  - commerson dolphin
+commonable  - common buzzard
+commonable  - common dolphin
+commonable  - common frog
+commonable  - common hippopotamus
+commonable  - common kingfisher
+commonable  - common lizard
+commonable  - common newt
+commonable  - common palm civet
+commonable  - common seal
+commonable  - common toad
+commonable  - common wasps
+commonish  - commerson dolphin
+commonish  - common buzzard
+commonish  - common dolphin
+commonish  - common frog
+commonish  - common hippopotamus
+commonish  - common kingfisher
+commonish  - common lizard
+commonish  - common newt
+commonish  - common palm civet
+commonish  - common seal
+commonish  - common toad
+commonish  - common wasps
+commonitive  - commerson dolphin
+commonitive  - common buzzard
+commonitive  - common dolphin
+commonitive  - common frog
+commonitive  - common hippopotamus
+commonitive  - common kingfisher
+commonitive  - common lizard
+commonitive  - common newt
+commonitive  - common palm civet
+commonitive  - common seal
+commonitive  - common toad
+commonitive  - common wasps
+commonitory  - commerson dolphin
+commonitory  - common buzzard
+commonitory  - common dolphin
+commonitory  - common frog
+commonitory  - common hippopotamus
+commonitory  - common kingfisher
+commonitory  - common lizard
+commonitory  - common newt
+commonitory  - common palm civet
+commonitory  - common seal
+commonitory  - common toad
+commonitory  - common wasps
+commonly  - commerson dolphin
+commonly  - common buzzard
+commonly  - common dolphin
+commonly  - common frog
+commonly  - common hippopotamus
+commonly  - common kingfisher
+commonly  - common lizard
+commonly  - common newt
+commonly  - common palm civet
+commonly  - common seal
+commonly  - common toad
+commonly  - common wasps
+commorient  - commerson dolphin
+commorient  - common buzzard
+commorient  - common dolphin
+commorient  - common frog
+commorient  - common hippopotamus
+commorient  - common kingfisher
+commorient  - common lizard
+commorient  - common newt
+commorient  - common palm civet
+commorient  - common seal
+commorient  - common toad
+commorient  - common wasps
+communal  - commerson dolphin
+communal  - common buzzard
+communal  - common dolphin
+communal  - common frog
+communal  - common hippopotamus
+communal  - common kingfisher
+communal  - common lizard
+communal  - common newt
+communal  - common palm civet
+communal  - common seal
+communal  - common toad
+communal  - common wasps
+communalistic  - commerson dolphin
+communalistic  - common buzzard
+communalistic  - common dolphin
+communalistic  - common frog
+communalistic  - common hippopotamus
+communalistic  - common kingfisher
+communalistic  - common lizard
+communalistic  - common newt
+communalistic  - common palm civet
+communalistic  - common seal
+communalistic  - common toad
+communalistic  - common wasps
+communicable  - commerson dolphin
+communicable  - common buzzard
+communicable  - common dolphin
+communicable  - common frog
+communicable  - common hippopotamus
+communicable  - common kingfisher
+communicable  - common lizard
+communicable  - common newt
+communicable  - common palm civet
+communicable  - common seal
+communicable  - common toad
+communicable  - common wasps
+communicant  - commerson dolphin
+communicant  - common buzzard
+communicant  - common dolphin
+communicant  - common frog
+communicant  - common hippopotamus
+communicant  - common kingfisher
+communicant  - common lizard
+communicant  - common newt
+communicant  - common palm civet
+communicant  - common seal
+communicant  - common toad
+communicant  - common wasps
+communicative  - commerson dolphin
+communicative  - common buzzard
+communicative  - common dolphin
+communicative  - common frog
+communicative  - common hippopotamus
+communicative  - common kingfisher
+communicative  - common lizard
+communicative  - common newt
+communicative  - common palm civet
+communicative  - common seal
+communicative  - common toad
+communicative  - common wasps
+communicatory  - commerson dolphin
+communicatory  - common buzzard
+communicatory  - common dolphin
+communicatory  - common frog
+communicatory  - common hippopotamus
+communicatory  - common kingfisher
+communicatory  - common lizard
+communicatory  - common newt
+communicatory  - common palm civet
+communicatory  - common seal
+communicatory  - common toad
+communicatory  - common wasps
+commutable  - commerson dolphin
+commutable  - common buzzard
+commutable  - common dolphin
+commutable  - common frog
+commutable  - common hippopotamus
+commutable  - common kingfisher
+commutable  - common lizard
+commutable  - common newt
+commutable  - common palm civet
+commutable  - common seal
+commutable  - common toad
+commutable  - common wasps
+commutative  - commerson dolphin
+commutative  - common buzzard
+commutative  - common dolphin
+commutative  - common frog
+commutative  - common hippopotamus
+commutative  - common kingfisher
+commutative  - common lizard
+commutative  - common newt
+commutative  - common palm civet
+commutative  - common seal
+commutative  - common toad
+commutative  - common wasps
+commutual  - commerson dolphin
+commutual  - common buzzard
+commutual  - common dolphin
+commutual  - common frog
+commutual  - common hippopotamus
+commutual  - common kingfisher
+commutual  - common lizard
+commutual  - common newt
+commutual  - common palm civet
+commutual  - common seal
+commutual  - common toad
+commutual  - common wasps
+copped  - copperhead snakes
+coppled  - copperhead snakes
+corneal  - corncrake
+corneocalcareous  - corncrake
+corneouss  - corncrake
+cornerwise  - corncrake
+corniced  - corncrake
+cornific  - corncrake
+cornified  - corncrake
+corniform  - corncrake
+cornute  - corncrake
+cornuted  - corncrake
+corny  - corncrake
+cottaged  - cottonmouth snakes
+cottagely  - cottonmouth snakes
+cottoid  - cottonmouth snakes
+cottonous  - cottonmouth snakes
+cowslipped  - cows
+crab  - crab
+crab  - crab plover
+crab  - crabs
+crabbish  - crab
+crabbish  - crab plover
+crabbish  - crabs
+crocketed  - crocodile
+crocky  - crocodile
+crosiered  - crossbill
+cross  - crossbill
+crossbred  - crossbill
+crossgrained  - crossbill
+crosslegged  - crossbill
+crosslet  - crossbill
+crossly  - crossbill
+crossopterygian  - crossbill
+crosswise  - crossbill
+cuban  - cuban solenodon
+cubatory  - cuban solenodon
+cuckoldly  - cuckoo
+curly  - curlew
+dark  - darkling beetle
+darken  - darkling beetle
+darkful  - darkling beetle
+darkish  - darkling beetle
+darkling  - darkling beetle
+darksome  - darkling beetle
+dingily  - dingo
+domed  - domestic pig
+domestical  - domestic pig
+domestically  - domestic pig
+domesticant  - domestic pig
+dovelike  - dove
+dragonish  - dragon
+dragonish  - dragonfly
+dragonlike  - dragon
+dragonlike  - dragonfly
+dromaeognathous  - dromedary camels
+dungy  - dung beetle
+earthborn  - earthworms
+earthbred  - earthworms
+earthly  - earthworms
+earthward  - earthworms
+earthwards  - earthworms
+earthy  - earthworms
+east  - eastern lowland gorillas
+east  - eastern wolf
+easternmost  - eastern lowland gorillas
+easternmost  - eastern wolf
+eastward  - eastern lowland gorillas
+eastward  - eastern wolf
+elephantiac  - elephant
+elephantiac  - elephant seal
+elephantiac  - elephants
+elephantoid  - elephant
+elephantoid  - elephant seal
+elephantoid  - elephants
+elephantoidal  - elephant
+elephantoidal  - elephant seal
+elephantoidal  - elephants
+emperished  - emperor penguin
+erect  - erect-crested penguin
+erectile  - erect-crested penguin
+erective  - erect-crested penguin
+erectly  - erect-crested penguin
+ethic  - ethiopian wolf
+ethiopian  - ethiopian wolf
+ethiopic  - ethiopian wolf
+eurasiatio  - eurasian water shrew
+eurasiatio  - eurasian wolf
+eurasiatio  - eurasian wryneck
+falsary  - false black widow spider
+false  - false black widow spider
+falsely  - false black widow spider
+falsify  - false black widow spider
+falsity  - false black widow spider
+fennish  - fennec fox
+fielded  - field vole
+fielden  - field vole
+fijian  - fiji blue devil damsel fish
+finchbacked  - finches
+finched  - finches
+fishful  - fish
+fishlike  - fish
+fishy  - fish
+flameless  - flamingo
+flamineous  - flamingo
+flaming  - flamingo
+flamingly  - flamingo
+flaminical  - flamingo
+flammable  - flamingo
+flammiferous  - flamingo
+flammulated  - flamingo
+flamy  - flamingo
+flat  - flatworms
+flative  - flatworms
+flatlong  - flatworms
+flatten  - flatworms
+flatteringly  - flatworms
+flattish  - flatworms
+flatulent  - flatworms
+flatulently  - flatworms
+flatuous  - flatworms
+froggy  - frog
+froggy  - frogmouth
+froggy  - frogs
+fungal  - fungus beetle
+fungiform  - fungus beetle
+fungilliform  - fungus beetle
+fungivorous  - fungus beetle
+fungoid  - fungus beetle
+fungous  - fungus beetle
+galactic  - galapagos barn owls
+galactic  - galapagos black tipped shark
+galactic  - galapagos brown noddy tern
+galactic  - galapagos brown pelican birds
+galactic  - galapagos brydes whale
+galactic  - galapagos dark billed cuckoo
+galactic  - galapagos dove
+galactic  - galapagos eels
+galactic  - galapagos fin whales
+galactic  - galapagos finches
+galactic  - galapagos flamingo
+galactic  - galapagos flightless cormorant sea bird
+galactic  - galapagos flycatcher bird
+galactic  - galapagos fur seals
+galactic  - galapagos gecko
+galactic  - galapagos giant tortoise
+galactic  - galapagos great blue heron bird
+galactic  - galapagos great frigate bird
+galactic  - galapagos green sea turtle
+galactic  - galapagos hammerhead shark
+galactic  - galapagos hawk
+galactic  - galapagos hoary bat
+galactic  - galapagos humpback whale
+galactic  - galapagos killer whale
+galactic  - galapagos land iguana
+galactic  - galapagos lava gull bird
+galactic  - galapagos lava heron bird
+galactic  - galapagos lava lizard
+galactic  - galapagos marine iguana
+galactic  - galapagos masked booby bird
+galactic  - galapagos minke whale
+galactic  - galapagos mockingbird
+galactic  - galapagos nazca booby bird
+galactic  - galapagos penguin
+galactic  - galapagos rail bird
+galactic  - galapagos rays
+galactic  - galapagos red bat
+galactic  - galapagos red billed tropic bird
+galactic  - galapagos red footed booby bird
+galactic  - galapagos rice rat
+galactic  - galapagos sea lions
+galactic  - galapagos short eared owl
+galactic  - galapagos short finned pilot whale
+galactic  - galapagos silky shark
+galactic  - galapagos smooth billed ani bird
+galactic  - galapagos snakes
+galactic  - galapagos sperm whale
+galactic  - galapagos storm petrel bird
+galactic  - galapagos swallow tailed gull
+galactic  - galapagos waved albatross
+galactic  - galapagos whale shark
+galactic  - galapagos whimbrel birds
+galactic  - galapagos white cheeked pintail duck
+galactic  - galapagos white tipped reef shark
+galactic  - galapagos willet bird
+galactic  - galapagos yellow warbler bird
+galactic  - galapagos yellow-crowned night heron
+galactophagous  - galapagos barn owls
+galactophagous  - galapagos black tipped shark
+galactophagous  - galapagos brown noddy tern
+galactophagous  - galapagos brown pelican birds
+galactophagous  - galapagos brydes whale
+galactophagous  - galapagos dark billed cuckoo
+galactophagous  - galapagos dove
+galactophagous  - galapagos eels
+galactophagous  - galapagos fin whales
+galactophagous  - galapagos finches
+galactophagous  - galapagos flamingo
+galactophagous  - galapagos flightless cormorant sea bird
+galactophagous  - galapagos flycatcher bird
+galactophagous  - galapagos fur seals
+galactophagous  - galapagos gecko
+galactophagous  - galapagos giant tortoise
+galactophagous  - galapagos great blue heron bird
+galactophagous  - galapagos great frigate bird
+galactophagous  - galapagos green sea turtle
+galactophagous  - galapagos hammerhead shark
+galactophagous  - galapagos hawk
+galactophagous  - galapagos hoary bat
+galactophagous  - galapagos humpback whale
+galactophagous  - galapagos killer whale
+galactophagous  - galapagos land iguana
+galactophagous  - galapagos lava gull bird
+galactophagous  - galapagos lava heron bird
+galactophagous  - galapagos lava lizard
+galactophagous  - galapagos marine iguana
+galactophagous  - galapagos masked booby bird
+galactophagous  - galapagos minke whale
+galactophagous  - galapagos mockingbird
+galactophagous  - galapagos nazca booby bird
+galactophagous  - galapagos penguin
+galactophagous  - galapagos rail bird
+galactophagous  - galapagos rays
+galactophagous  - galapagos red bat
+galactophagous  - galapagos red billed tropic bird
+galactophagous  - galapagos red footed booby bird
+galactophagous  - galapagos rice rat
+galactophagous  - galapagos sea lions
+galactophagous  - galapagos short eared owl
+galactophagous  - galapagos short finned pilot whale
+galactophagous  - galapagos silky shark
+galactophagous  - galapagos smooth billed ani bird
+galactophagous  - galapagos snakes
+galactophagous  - galapagos sperm whale
+galactophagous  - galapagos storm petrel bird
+galactophagous  - galapagos swallow tailed gull
+galactophagous  - galapagos waved albatross
+galactophagous  - galapagos whale shark
+galactophagous  - galapagos whimbrel birds
+galactophagous  - galapagos white cheeked pintail duck
+galactophagous  - galapagos white tipped reef shark
+galactophagous  - galapagos willet bird
+galactophagous  - galapagos yellow warbler bird
+galactophagous  - galapagos yellow-crowned night heron
+galactophorous  - galapagos barn owls
+galactophorous  - galapagos black tipped shark
+galactophorous  - galapagos brown noddy tern
+galactophorous  - galapagos brown pelican birds
+galactophorous  - galapagos brydes whale
+galactophorous  - galapagos dark billed cuckoo
+galactophorous  - galapagos dove
+galactophorous  - galapagos eels
+galactophorous  - galapagos fin whales
+galactophorous  - galapagos finches
+galactophorous  - galapagos flamingo
+galactophorous  - galapagos flightless cormorant sea bird
+galactophorous  - galapagos flycatcher bird
+galactophorous  - galapagos fur seals
+galactophorous  - galapagos gecko
+galactophorous  - galapagos giant tortoise
+galactophorous  - galapagos great blue heron bird
+galactophorous  - galapagos great frigate bird
+galactophorous  - galapagos green sea turtle
+galactophorous  - galapagos hammerhead shark
+galactophorous  - galapagos hawk
+galactophorous  - galapagos hoary bat
+galactophorous  - galapagos humpback whale
+galactophorous  - galapagos killer whale
+galactophorous  - galapagos land iguana
+galactophorous  - galapagos lava gull bird
+galactophorous  - galapagos lava heron bird
+galactophorous  - galapagos lava lizard
+galactophorous  - galapagos marine iguana
+galactophorous  - galapagos masked booby bird
+galactophorous  - galapagos minke whale
+galactophorous  - galapagos mockingbird
+galactophorous  - galapagos nazca booby bird
+galactophorous  - galapagos penguin
+galactophorous  - galapagos rail bird
+galactophorous  - galapagos rays
+galactophorous  - galapagos red bat
+galactophorous  - galapagos red billed tropic bird
+galactophorous  - galapagos red footed booby bird
+galactophorous  - galapagos rice rat
+galactophorous  - galapagos sea lions
+galactophorous  - galapagos short eared owl
+galactophorous  - galapagos short finned pilot whale
+galactophorous  - galapagos silky shark
+galactophorous  - galapagos smooth billed ani bird
+galactophorous  - galapagos snakes
+galactophorous  - galapagos sperm whale
+galactophorous  - galapagos storm petrel bird
+galactophorous  - galapagos swallow tailed gull
+galactophorous  - galapagos waved albatross
+galactophorous  - galapagos whale shark
+galactophorous  - galapagos whimbrel birds
+galactophorous  - galapagos white cheeked pintail duck
+galactophorous  - galapagos white tipped reef shark
+galactophorous  - galapagos willet bird
+galactophorous  - galapagos yellow warbler bird
+galactophorous  - galapagos yellow-crowned night heron
+galactopoietic  - galapagos barn owls
+galactopoietic  - galapagos black tipped shark
+galactopoietic  - galapagos brown noddy tern
+galactopoietic  - galapagos brown pelican birds
+galactopoietic  - galapagos brydes whale
+galactopoietic  - galapagos dark billed cuckoo
+galactopoietic  - galapagos dove
+galactopoietic  - galapagos eels
+galactopoietic  - galapagos fin whales
+galactopoietic  - galapagos finches
+galactopoietic  - galapagos flamingo
+galactopoietic  - galapagos flightless cormorant sea bird
+galactopoietic  - galapagos flycatcher bird
+galactopoietic  - galapagos fur seals
+galactopoietic  - galapagos gecko
+galactopoietic  - galapagos giant tortoise
+galactopoietic  - galapagos great blue heron bird
+galactopoietic  - galapagos great frigate bird
+galactopoietic  - galapagos green sea turtle
+galactopoietic  - galapagos hammerhead shark
+galactopoietic  - galapagos hawk
+galactopoietic  - galapagos hoary bat
+galactopoietic  - galapagos humpback whale
+galactopoietic  - galapagos killer whale
+galactopoietic  - galapagos land iguana
+galactopoietic  - galapagos lava gull bird
+galactopoietic  - galapagos lava heron bird
+galactopoietic  - galapagos lava lizard
+galactopoietic  - galapagos marine iguana
+galactopoietic  - galapagos masked booby bird
+galactopoietic  - galapagos minke whale
+galactopoietic  - galapagos mockingbird
+galactopoietic  - galapagos nazca booby bird
+galactopoietic  - galapagos penguin
+galactopoietic  - galapagos rail bird
+galactopoietic  - galapagos rays
+galactopoietic  - galapagos red bat
+galactopoietic  - galapagos red billed tropic bird
+galactopoietic  - galapagos red footed booby bird
+galactopoietic  - galapagos rice rat
+galactopoietic  - galapagos sea lions
+galactopoietic  - galapagos short eared owl
+galactopoietic  - galapagos short finned pilot whale
+galactopoietic  - galapagos silky shark
+galactopoietic  - galapagos smooth billed ani bird
+galactopoietic  - galapagos snakes
+galactopoietic  - galapagos sperm whale
+galactopoietic  - galapagos storm petrel bird
+galactopoietic  - galapagos swallow tailed gull
+galactopoietic  - galapagos waved albatross
+galactopoietic  - galapagos whale shark
+galactopoietic  - galapagos whimbrel birds
+galactopoietic  - galapagos white cheeked pintail duck
+galactopoietic  - galapagos white tipped reef shark
+galactopoietic  - galapagos willet bird
+galactopoietic  - galapagos yellow warbler bird
+galactopoietic  - galapagos yellow-crowned night heron
+gazeful  - gazelle
+gent  - gentoo penguin
+genteelish  - gentoo penguin
+genteelly  - gentoo penguin
+gentianaceous  - gentoo penguin
+gentile  - gentoo penguin
+gentilesse  - gentoo penguin
+gentilish  - gentoo penguin
+gentilitial  - gentoo penguin
+gentilitious  - gentoo penguin
+gentilly  - gentoo penguin
+gentlemanlike  - gentoo penguin
+gently  - gentoo penguin
+gentry  - gentoo penguin
+genty  - gentoo penguin
+gerent  - gerenuk
+giantly  - giant anteater
+giantly  - giant panda bear
+giantly  - giant sable antelope
+gibbose  - gibbon
+gibbous  - gibbon
+goatish  - goat
+goatish  - goats
+goatlike  - goat
+goatlike  - goats
+goatskin  - goat
+goatskin  - goats
+golden  - gold, silver and blue monkeys
+golden  - golden eagle
+golden  - golden pheasant
+goldless  - gold, silver and blue monkeys
+goldless  - golden eagle
+goldless  - golden pheasant
+gooseberry  - goose
+goosewinged  - goose
+goosish  - goose
+graspable  - grasshopper
+grasping  - grasshopper
+graspless  - grasshopper
+grassless  - grasshopper
+grassy  - grasshopper
+greasily  - great bittern
+greasily  - great crested newt
+greasily  - great green macaw
+greasily  - great white african pelican birds
+greasily  - great white shark
+greasily  - greater flamingo
+greasily  - greater horseshoe bat
+greasily  - greater mouse-eared bat
+greasily  - greater spot-nosed monkeys
+greatly  - great bittern
+greatly  - great crested newt
+greatly  - great green macaw
+greatly  - great white african pelican birds
+greatly  - great white shark
+greatly  - greater flamingo
+greatly  - greater horseshoe bat
+greatly  - greater mouse-eared bat
+greatly  - greater spot-nosed monkeys
+greedily  - green crabs
+greedily  - green scarab beetle
+greek  - green crabs
+greek  - green scarab beetle
+greekish  - green crabs
+greekish  - green scarab beetle
+greenly  - green crabs
+greenly  - green scarab beetle
+greet  - green crabs
+greet  - green scarab beetle
+grey  - grey jungle fowl bird
+grey  - grey loerie bird
+grey  - grey partridge
+grey  - grey seal
+grey  - grey wolf
+grizelin  - grizzly bear
+grizzled  - grizzly bear
+grizzly  - grizzly bear
+groundedly  - ground beetle
+groundedly  - ground centipede
+groundly  - ground beetle
+groundly  - ground centipede
+grouty  - ground beetle
+grouty  - ground centipede
+gullible  - gull
+gullish  - gull
+harberous  - harbour porpoise
+harborless  - harbour porpoise
+harborous  - harbour porpoise
+hare'brained'  - hare
+harengiform  - hare
+hawked  - hawk
+hazeless  - hazel dormouse
+hazelly  - hazel dormouse
+hectocotylized  - hectors dolphin
+hectorly  - hectors dolphin
+hedgeborn  - hedgehog
+hedgeless  - hedgehog
+hermaphroditic  - hermit crabs
+hermaphroditical  - hermit crabs
+hermeneutic  - hermit crabs
+hermetic  - hermit crabs
+hermetically  - hermit crabs
+heroical  - heron
+heroicomic  - heron
+hipped  - hippopotamus
+hippish  - hippopotamus
+hippocampal  - hippopotamus
+hippocrepiform  - hippopotamus
+hobornob  - hobo spider
+honest  - honey bee
+honest  - honey bee characteristics
+honestly  - honey bee
+honestly  - honey bee characteristics
+honesty  - honey bee
+honesty  - honey bee characteristics
+honeycombed  - honey bee
+honeycombed  - honey bee characteristics
+honeyed  - honey bee
+honeyed  - honey bee characteristics
+honeyless  - honey bee
+honeyless  - honey bee characteristics
+honeysuckled  - honey bee
+honeysuckled  - honey bee characteristics
+hornblendic  - hornets
+hornfoot  - hornets
+hornish  - hornets
+hornless  - hornets
+horse  - horses
+horse  - horseshoe crabs
+horsly  - horses
+horsly  - horseshoe crabs
+houseling  - house centipede
+housewifely  - house centipede
+humble  - humboldt penguin
+humbly  - humboldt penguin
+hydrated  - hydrozoan jellyfish
+hydraulical  - hydrozoan jellyfish
+hydrencephsloid  - hydrozoan jellyfish
+hydriform  - hydrozoan jellyfish
+hydrocephaloid  - hydrozoan jellyfish
+hydrocephalous  - hydrozoan jellyfish
+hydrodynamic  - hydrozoan jellyfish
+hydrogenous  - hydrozoan jellyfish
+hydrographic  - hydrozoan jellyfish
+hydrographical  - hydrozoan jellyfish
+hydrological  - hydrozoan jellyfish
+hydrolytic  - hydrozoan jellyfish
+hydromantic  - hydrozoan jellyfish
+hydromellonic  - hydrozoan jellyfish
+hydrometallurgical  - hydrozoan jellyfish
+hydrometric  - hydrozoan jellyfish
+hydropathic  - hydrozoan jellyfish
+hydropathical  - hydrozoan jellyfish
+hydrophanous  - hydrozoan jellyfish
+hydropic  - hydrozoan jellyfish
+hydropically  - hydrozoan jellyfish
+hydrostatic  - hydrozoan jellyfish
+hydrosulphureted  - hydrozoan jellyfish
+hydrotic  - hydrozoan jellyfish
+hydrotical  - hydrozoan jellyfish
+hydrous  - hydrozoan jellyfish
+hydroxanthic  - hydrozoan jellyfish
+hydrozoal  - hydrozoan jellyfish
+iguanid  - iguana
+iguanodont  - iguana
+iguanoid  - iguana
+impacable  - impala
+impacted  - impala
+impair  - impala
+impalatable  - impala
+impalpable  - impala
+impalpably  - impala
+imparalleled  - impala
+impardonable  - impala
+imparipinnate  - impala
+impartial  - impala
+impartially  - impala
+impartible  - impala
+impassibility  - impala
+impassionable  - impala
+impassionate  - impala
+impassive  - impala
+impatible  - impala
+impatient  - impala
+impatiently  - impala
+impavid  - impala
+indical  - indian cuckoo bird
+indical  - indian rhinoceros
+indical  - indian skimmer bird
+indicated  - indian cuckoo bird
+indicated  - indian rhinoceros
+indicated  - indian skimmer bird
+indicative  - indian cuckoo bird
+indicative  - indian rhinoceros
+indicative  - indian skimmer bird
+indicatively  - indian cuckoo bird
+indicatively  - indian rhinoceros
+indicatively  - indian skimmer bird
+indicatory  - indian cuckoo bird
+indicatory  - indian rhinoceros
+indicatory  - indian skimmer bird
+indicible  - indian cuckoo bird
+indicible  - indian rhinoceros
+indicible  - indian skimmer bird
+indictive  - indian cuckoo bird
+indictive  - indian rhinoceros
+indictive  - indian skimmer bird
+indifferent  - indian cuckoo bird
+indifferent  - indian rhinoceros
+indifferent  - indian skimmer bird
+indigenous  - indian cuckoo bird
+indigenous  - indian rhinoceros
+indigenous  - indian skimmer bird
+indigent  - indian cuckoo bird
+indigent  - indian rhinoceros
+indigent  - indian skimmer bird
+indigently  - indian cuckoo bird
+indigently  - indian rhinoceros
+indigently  - indian skimmer bird
+indigest  - indian cuckoo bird
+indigest  - indian rhinoceros
+indigest  - indian skimmer bird
+indigested  - indian cuckoo bird
+indigested  - indian rhinoceros
+indigested  - indian skimmer bird
+indigestible  - indian cuckoo bird
+indigestible  - indian rhinoceros
+indigestible  - indian skimmer bird
+indign  - indian cuckoo bird
+indign  - indian rhinoceros
+indign  - indian skimmer bird
+indignantly  - indian cuckoo bird
+indignantly  - indian rhinoceros
+indignantly  - indian skimmer bird
+indignly  - indian cuckoo bird
+indignly  - indian rhinoceros
+indignly  - indian skimmer bird
+indilatory  - indian cuckoo bird
+indilatory  - indian rhinoceros
+indilatory  - indian skimmer bird
+indiligent  - indian cuckoo bird
+indiligent  - indian rhinoceros
+indiligent  - indian skimmer bird
+indiminishable  - indian cuckoo bird
+indiminishable  - indian rhinoceros
+indiminishable  - indian skimmer bird
+indirect  - indian cuckoo bird
+indirect  - indian rhinoceros
+indirect  - indian skimmer bird
+indirected  - indian cuckoo bird
+indirected  - indian rhinoceros
+indirected  - indian skimmer bird
+indiscernible  - indian cuckoo bird
+indiscernible  - indian rhinoceros
+indiscernible  - indian skimmer bird
+indiscerpible  - indian cuckoo bird
+indiscerpible  - indian rhinoceros
+indiscerpible  - indian skimmer bird
+indiscerptible  - indian cuckoo bird
+indiscerptible  - indian rhinoceros
+indiscerptible  - indian skimmer bird
+indisciplinable  - indian cuckoo bird
+indisciplinable  - indian rhinoceros
+indisciplinable  - indian skimmer bird
+indiscoverable  - indian cuckoo bird
+indiscoverable  - indian rhinoceros
+indiscoverable  - indian skimmer bird
+indiscreet  - indian cuckoo bird
+indiscreet  - indian rhinoceros
+indiscreet  - indian skimmer bird
+indiscrete  - indian cuckoo bird
+indiscrete  - indian rhinoceros
+indiscrete  - indian skimmer bird
+indiscriminate  - indian cuckoo bird
+indiscriminate  - indian rhinoceros
+indiscriminate  - indian skimmer bird
+indiscriminating  - indian cuckoo bird
+indiscriminating  - indian rhinoceros
+indiscriminating  - indian skimmer bird
+indiscriminative  - indian cuckoo bird
+indiscriminative  - indian rhinoceros
+indiscriminative  - indian skimmer bird
+indiscussed  - indian cuckoo bird
+indiscussed  - indian rhinoceros
+indiscussed  - indian skimmer bird
+indispensable  - indian cuckoo bird
+indispensable  - indian rhinoceros
+indispensable  - indian skimmer bird
+indispensably  - indian cuckoo bird
+indispensably  - indian rhinoceros
+indispensably  - indian skimmer bird
+indispersed  - indian cuckoo bird
+indispersed  - indian rhinoceros
+indispersed  - indian skimmer bird
+indisputable  - indian cuckoo bird
+indisputable  - indian rhinoceros
+indisputable  - indian skimmer bird
+indisputed  - indian cuckoo bird
+indisputed  - indian rhinoceros
+indisputed  - indian skimmer bird
+indissipable  - indian cuckoo bird
+indissipable  - indian rhinoceros
+indissipable  - indian skimmer bird
+indissolubly  - indian cuckoo bird
+indissolubly  - indian rhinoceros
+indissolubly  - indian skimmer bird
+indistinctible  - indian cuckoo bird
+indistinctible  - indian rhinoceros
+indistinctible  - indian skimmer bird
+indistinctive  - indian cuckoo bird
+indistinctive  - indian rhinoceros
+indistinctive  - indian skimmer bird
+indistinguishably  - indian cuckoo bird
+indistinguishably  - indian rhinoceros
+indistinguishably  - indian skimmer bird
+indistinguished  - indian cuckoo bird
+indistinguished  - indian rhinoceros
+indistinguished  - indian skimmer bird
+indivertible  - indian cuckoo bird
+indivertible  - indian rhinoceros
+indivertible  - indian skimmer bird
+individable  - indian cuckoo bird
+individable  - indian rhinoceros
+individable  - indian skimmer bird
+individed  - indian cuckoo bird
+individed  - indian rhinoceros
+individed  - indian skimmer bird
+individualistic  - indian cuckoo bird
+individualistic  - indian rhinoceros
+individualistic  - indian skimmer bird
+individually  - indian cuckoo bird
+individually  - indian rhinoceros
+individually  - indian skimmer bird
+individuate  - indian cuckoo bird
+individuate  - indian rhinoceros
+individuate  - indian skimmer bird
+indivisibly  - indian cuckoo bird
+indivisibly  - indian rhinoceros
+indivisibly  - indian skimmer bird
+italianate  - italian wolf
+italic  - italian wolf
+japannish  - japanese spider crabs
+jellied  - jellyfish
+kingdomed  - king cobra snakes
+kingdomed  - king penguin
+kingdomed  - kingfisher
+kingless  - king cobra snakes
+kingless  - king penguin
+kingless  - kingfisher
+kingly  - king cobra snakes
+kingly  - king penguin
+kingly  - kingfisher
+kinky  - kinkajou
+kittle  - kittens
+kittlish  - kittens
+lady  - ladybird
+ladylike  - ladybird
+laughingly  - laughing kookaburra
+laughterless  - laughing kookaburra
+laughworthy  - laughing kookaburra
+lemuridous  - lemur
+lemurine  - lemur
+lemuroid  - lemur
+lionced  - lion
+lionced  - lions
+lionlike  - lion
+lionlike  - lions
+lionly  - lion
+lionly  - lions
+littery  - little fairy penguin
+little  - little fairy penguin
+long  - long horned beetle
+long  - longhorn cowfish
+longeval  - long horned beetle
+longeval  - longhorn cowfish
+longevous  - long horned beetle
+longevous  - longhorn cowfish
+longheaded  - long horned beetle
+longheaded  - longhorn cowfish
+longicorn  - long horned beetle
+longicorn  - longhorn cowfish
+longimanous  - long horned beetle
+longimanous  - longhorn cowfish
+longingly  - long horned beetle
+longingly  - longhorn cowfish
+longipennine  - long horned beetle
+longipennine  - longhorn cowfish
+longirostral  - long horned beetle
+longirostral  - longhorn cowfish
+longish  - long horned beetle
+longish  - longhorn cowfish
+longitudinally  - long horned beetle
+longitudinally  - longhorn cowfish
+longly  - long horned beetle
+longly  - longhorn cowfish
+longshore  - long horned beetle
+longshore  - longhorn cowfish
+longsome  - long horned beetle
+longsome  - longhorn cowfish
+longways  - long horned beetle
+longways  - longhorn cowfish
+longwise  - long horned beetle
+longwise  - longhorn cowfish
+macaronian  - macaque monkeys
+macaronian  - macaroni penguin
+macaronian  - macaw
+manable  - manatee
+manageless  - manatee
+maned  - maned wolf
+maneless  - maned wolf
+manerial  - maned wolf
+mantuan  - mantis
+marigenous  - marine angelfish
+marine  - marine angelfish
+marined  - marine angelfish
+marish  - marine angelfish
+maritated  - marine angelfish
+maritimal  - marine angelfish
+maritimale  - marine angelfish
+markable  - markhor
+martially  - marten
+martyrly  - marten
+martyrologic  - marten
+masked  - masked finfoot bird
+mexican  - mexican wolf
+miliolite  - military macaw parrot
+miliolitic  - military macaw parrot
+militant  - military macaw parrot
+militar  - military macaw parrot
+militarily  - military macaw parrot
+milken  - milkweed beetle
+milkful  - milkweed beetle
+milkily  - milkweed beetle
+milky  - milkweed beetle
+milled  - millipedes
+millenary  - millipedes
+milliary  - millipedes
+millifold  - millipedes
+millioned  - millipedes
+millionth  - millipedes
+mockable  - mockingbird
+mockingly  - mockingbird
+mockish  - mockingbird
+mockle  - mockingbird
+molecularly  - moles
+molendinaceous  - moles
+molendinarious  - moles
+molestful  - moles
+monking  - monkey
+monking  - monkeys
+morphologic  - morpho butterfly
+mothen  - moth
+motherly  - moth
+mothy  - moth
+mountable  - mountain goat
+mountable  - mountain gorillas
+mountable  - mountain zebra
+mountain  - mountain goat
+mountain  - mountain gorillas
+mountain  - mountain zebra
+mountainous  - mountain goat
+mountainous  - mountain gorillas
+mountainous  - mountain zebra
+mountant  - mountain goat
+mountant  - mountain gorillas
+mountant  - mountain zebra
+mountebankish  - mountain goat
+mountebankish  - mountain gorillas
+mountebankish  - mountain zebra
+mountingly  - mountain goat
+mountingly  - mountain gorillas
+mountingly  - mountain zebra
+mousing  - mouse spider
+mousy  - mouse spider
+natty  - natterjack toad
+new  - new world monkeys
+new  - new world tarantula spider
+north  - northern short-tailed shrew
+northeast  - northern short-tailed shrew
+northeasterly  - northern short-tailed shrew
+northeastern  - northern short-tailed shrew
+northeastward  - northern short-tailed shrew
+northeastwardly  - northern short-tailed shrew
+northerly  - northern short-tailed shrew
+northernly  - northern short-tailed shrew
+northernmost  - northern short-tailed shrew
+northmost  - northern short-tailed shrew
+northumbrian  - northern short-tailed shrew
+northward  - northern short-tailed shrew
+northwardly  - northern short-tailed shrew
+northwest  - northern short-tailed shrew
+northwestward  - northern short-tailed shrew
+northwestwardly  - northern short-tailed shrew
+ocellary  - ocelot
+ocellate  - ocelot
+ocellated  - ocelot
+oceloid  - ocelot
+ostracoid  - ostrich birds
+ostriferous  - ostrich birds
+ostrogothic  - ostrich birds
+pandarous  - pandas
+pandean  - pandas
+pandemic  - pandas
+panderly  - pandas
+panderous  - pandas
+pandiculated  - pandas
+pandurate  - pandas
+pantamorphic  - pantropical spotted dolphins
+pantascopic  - pantropical spotted dolphins
+panteutonic  - pantropical spotted dolphins
+pantheistic  - pantropical spotted dolphins
+pantingly  - pantropical spotted dolphins
+pantisocratic  - pantropical spotted dolphins
+pantographic  - pantropical spotted dolphins
+pantographical  - pantropical spotted dolphins
+pantological  - pantropical spotted dolphins
+pantomimic  - pantropical spotted dolphins
+pantomimical  - pantropical spotted dolphins
+pantophagous  - pantropical spotted dolphins
+papery  - paper wasp
+papescent  - paper wasp
+parable  - parasitic bees
+parabolic  - parasitic bees
+parabolically  - parasitic bees
+paraboliform  - parasitic bees
+paracentric  - parasitic bees
+paracentrical  - parasitic bees
+parachordal  - parasitic bees
+parachrose  - parasitic bees
+paradigmatic  - parasitic bees
+paradigmatical  - parasitic bees
+paradisaic  - parasitic bees
+paradisal  - parasitic bees
+paradisean  - parasitic bees
+paradised  - parasitic bees
+paradisiac  - parasitic bees
+paradisial  - parasitic bees
+paradisian  - parasitic bees
+paradisic  - parasitic bees
+paradisical  - parasitic bees
+paradoxal  - parasitic bees
+paradoxical  - parasitic bees
+paragogic  - parasitic bees
+paragraphic  - parasitic bees
+paragraphistical  - parasitic bees
+paraguayan  - parasitic bees
+parallactic  - parasitic bees
+parallactical  - parasitic bees
+parallel  - parasitic bees
+parallelistic  - parasitic bees
+parallelless  - parasitic bees
+parallelly  - parasitic bees
+parallelogrammatic  - parasitic bees
+parallelogrammic  - parasitic bees
+parallelogrammical  - parasitic bees
+paralogical  - parasitic bees
+paralytic  - parasitic bees
+paralytical  - parasitic bees
+paramorphous  - parasitic bees
+paramountly  - parasitic bees
+paramour  - parasitic bees
+paranymphal  - parasitic bees
+parapeted  - parasitic bees
+paraphosphoric  - parasitic bees
+paraphrastic  - parasitic bees
+parasital  - parasitic bees
+parasitic  - parasitic bees
+parasitical  - parasitic bees
+parasphenoid  - parasitic bees
+parasynthetic  - parasitic bees
+parathetic  - parasitic bees
+paraunter  - parasitic bees
+paravail  - parasitic bees
+paravant  - parasitic bees
+paraventure  - parasitic bees
+paraxial  - parasitic bees
+parricidal  - parrot
+parricidious  - parrot
+part  - partridge
+partable  - partridge
+parted  - partridge
+parthenogenitive  - partridge
+participable  - partridge
+participant  - partridge
+participantly  - partridge
+participate  - partridge
+participative  - partridge
+participially  - partridge
+participle  - partridge
+particolored  - partridge
+particularly  - partridge
+particulate  - partridge
+partitively  - partridge
+partly  - partridge
+parturious  - partridge
+parturitive  - partridge
+party  - partridge
+peaceless  - peacock
+peachy  - peacock
+peccable  - peccary (javelina)
+peccant  - peccary (javelina)
+peccantly  - peccary (javelina)
+pineal  - pine marten
+piney  - pine marten
+piratic  - piranha fish
+plaided  - plains zebra
+plain  - plains zebra
+plaining  - plains zebra
+plainly  - plains zebra
+plaintful  - plains zebra
+plaintiff  - plains zebra
+plaintless  - plains zebra
+plat  - platypus
+plateresque  - platypus
+platinoid  - platypus
+platitudinous  - platypus
+platonic  - platypus
+platonically  - platypus
+platy  - platypus
+platycephalic  - platypus
+platycephalous  - platypus
+platycoelian  - platypus
+platyrhine  - platypus
+poisonable  - poison arrow frogs
+poisonous  - poison arrow frogs
+poisonsome  - poison arrow frogs
+polaric  - polar bear
+polarily  - polar bear
+polarizable  - polar bear
+polary  - polar bear
+polemical  - polecat
+polewards  - polecat
+poley  - polecat
+pollenarious  - pollan fish
+pollened  - pollan fish
+polleniferous  - pollan fish
+pollicate  - pollan fish
+pollinate  - pollan fish
+polliniferous  - pollan fish
+pollute  - pollan fish
+polluted  - pollan fish
+polluting  - pollan fish
+porcate  - porcupine
+porcelainized  - porcupine
+porcelaneous  - porcupine
+porcelanous  - porcupine
+porcellanous  - porcupine
+porcine  - porcupine
+porphyraceous  - porpoise
+pottern  - potter wasps
+prayerful  - praying mantis
+prayerless  - praying mantis
+prayingly  - praying mantis
+puff  - puffin
+puffingly  - puffin
+pygmean  - pygmy hippopotamus
+pygmy  - pygmy hippopotamus
+rabbinic  - rabbits
+rabbinically  - rabbits
+rainbowed  - rainbow bee eater
+rateable  - ratel
+red  - red back jumping spiders
+red  - red british squirrel
+red  - red fox
+red  - red kangaroo
+red  - red kite
+red  - red pandas
+red  - red rock crabs
+red  - red wolf
+retiary  - reticulated giraffe
+reticent  - reticulated giraffe
+reticular  - reticulated giraffe
+reticularly  - reticulated giraffe
+reticulate  - reticulated giraffe
+reticulose  - reticulated giraffe
+retinal  - reticulated giraffe
+retinerved  - reticulated giraffe
+retinophoral  - reticulated giraffe
+rhinal  - rhino
+rhinal  - rhinoceros
+rhinal  - rhinoceros beetle
+rhinencephalic  - rhino
+rhinencephalic  - rhinoceros
+rhinencephalic  - rhinoceros beetle
+rhinocerial  - rhino
+rhinocerial  - rhinoceros
+rhinocerial  - rhinoceros beetle
+rhinocerotic  - rhino
+rhinocerotic  - rhinoceros
+rhinocerotic  - rhinoceros beetle
+rhinological  - rhino
+rhinological  - rhinoceros
+rhinological  - rhinoceros beetle
+rhinoscopic  - rhino
+rhinoscopic  - rhinoceros
+rhinoscopic  - rhinoceros beetle
+right  - right whales
+righteoused  - right whales
+rightful  - right whales
+rightfully  - right whales
+rightless  - right whales
+rightly  - right whales
+rightward  - right whales
+rightwise  - right whales
+rightwisely  - right whales
+roborant  - roborovski hamsters
+roborean  - roborovski hamsters
+roboreous  - roborovski hamsters
+rockless  - rockhopper penguin
+rouge  - rough-toothed dolphins
+rough  - rough-toothed dolphins
+roughhewn  - rough-toothed dolphins
+roughish  - rough-toothed dolphins
+roughly  - rough-toothed dolphins
+royal  - royal penguin
+royally  - royal penguin
+sacral  - sacred ibis bird
+sacramental  - sacred ibis bird
+sacramentally  - sacred ibis bird
+sacramentarian  - sacred ibis bird
+sacramentary  - sacred ibis bird
+sacred  - sacred ibis bird
+sacrific  - sacred ibis bird
+sacrificable  - sacred ibis bird
+sacrifical  - sacred ibis bird
+sacrificial  - sacred ibis bird
+sacrilegious  - sacred ibis bird
+sacrosanct  - sacred ibis bird
+sallowish  - sally lightfoot crab
+sandaled  - sand lizard
+sandaliform  - sand lizard
+sanded  - sand lizard
+sandish  - sand lizard
+scarce  - scarlet macaw
+scarcely  - scarlet macaw
+scariose  - scarlet macaw
+scarless  - scarlet macaw
+scarry  - scarlet macaw
+scary  - scarlet macaw
+secre  - secretary bird
+secrely  - secretary bird
+secret  - secretary bird
+secretarial  - secretary bird
+secretly  - secretary bird
+servable  - serval
+servient  - serval
+servile  - serval
+servilely  - serval
+shadeful  - shad
+shadeless  - shad
+shadily  - shad
+shadowish  - shad
+shadowless  - shad
+shadowy  - shad
+sharp  - shark
+sharpen  - shark
+sheathless  - shearwater
+sheathy  - shearwater
+sheaved  - shearwater
+sheenly  - sheep
+sheeny  - sheep
+sheepish  - sheep
+sheepy  - sheep
+sheer  - sheep
+sheerly  - sheep
+shreddy  - shrew
+shredless  - shrew
+shrew  - shrew
+shrewish  - shrew
+shrieval  - shrike
+shrilly  - shrike
+shrinkingly  - shrike
+silvan  - silvery gibbon
+silver  - silvery gibbon
+silverly  - silvery gibbon
+silvern  - silvery gibbon
+silvery  - silvery gibbon
+slothful  - sloth
+slotted  - sloth
+snakish  - snake
+snakish  - snakes
+snaky  - snake
+snaky  - snakes
+snowless  - snow leopard
+snowless  - snowshoe hare
+snowy  - snow leopard
+snowy  - snowshoe hare
+sole  - solenodon
+solecistic  - solenodon
+solecistically  - solenodon
+solemn  - solenodon
+solemnly  - solenodon
+solempne  - solenodon
+solenaceous  - solenodon
+solenoglyph  - solenodon
+solert  - solenodon
+solicitate  - solitary bees
+solid  - solitary bees
+solidary  - solitary bees
+solidifiable  - solitary bees
+solidly  - solitary bees
+solidungular  - solitary bees
+solidungulous  - solitary bees
+solifidian  - solitary bees
+solipedous  - solitary bees
+solitarily  - solitary bees
+solitary  - solitary bees
+solitude  - solitary bees
+solivagant  - solitary bees
+solivagous  - solitary bees
+songful  - song thrush
+songish  - song thrush
+south  - southern short-tailed shrew
+southeaster  - southern short-tailed shrew
+southeastern  - southern short-tailed shrew
+southeastward  - southern short-tailed shrew
+southeastwardly  - southern short-tailed shrew
+southerly  - southern short-tailed shrew
+southernly  - southern short-tailed shrew
+southernmost  - southern short-tailed shrew
+southly  - southern short-tailed shrew
+southmost  - southern short-tailed shrew
+southren  - southern short-tailed shrew
+southward  - southern short-tailed shrew
+southwardly  - southern short-tailed shrew
+southwestward  - southern short-tailed shrew
+southwestwardly  - southern short-tailed shrew
+special  - spectacled bear
+special  - spectacled/common caiman
+specially  - spectacled bear
+specially  - spectacled/common caiman
+specifiable  - spectacled bear
+specifiable  - spectacled/common caiman
+specific  - spectacled bear
+specific  - spectacled/common caiman
+specifical  - spectacled bear
+specifical  - spectacled/common caiman
+specifically  - spectacled bear
+specifically  - spectacled/common caiman
+specious  - spectacled bear
+specious  - spectacled/common caiman
+speckled  - spectacled bear
+speckled  - spectacled/common caiman
+spectacled  - spectacled bear
+spectacled  - spectacled/common caiman
+spectacular  - spectacled bear
+spectacular  - spectacled/common caiman
+spectant  - spectacled bear
+spectant  - spectacled/common caiman
+spectatorial  - spectacled bear
+spectatorial  - spectacled/common caiman
+spectral  - spectacled bear
+spectral  - spectacled/common caiman
+spectrally  - spectacled bear
+spectrally  - spectacled/common caiman
+spectroscopic  - spectacled bear
+spectroscopic  - spectacled/common caiman
+specular  - spectacled bear
+specular  - spectacled/common caiman
+speculative  - spectacled bear
+speculative  - spectacled/common caiman
+speculatorial  - spectacled bear
+speculatorial  - spectacled/common caiman
+speculatory  - spectacled bear
+speculatory  - spectacled/common caiman
+spidered  - spider
+spidered  - spider monkey
+spidered  - spiders
+spiderlike  - spider
+spiderlike  - spider monkey
+spiderlike  - spiders
+spinal  - spinner dolphins
+spinate  - spinner dolphins
+spined  - spinner dolphins
+spineless  - spinner dolphins
+spineted  - spinner dolphins
+spiniferous  - spinner dolphins
+spiniform  - spinner dolphins
+spinigerous  - spinner dolphins
+spinny  - spinner dolphins
+spinose  - spinner dolphins
+spinous  - spinner dolphins
+spinulescent  - spinner dolphins
+spinulose  - spinner dolphins
+spinulous  - spinner dolphins
+spiny  - spinner dolphins
+spotty  - spotted beetle
+squib  - squirrel
+squib  - squirrel monkeys
+squillitic  - squirrel
+squillitic  - squirrel monkeys
+squintifego  - squirrel
+squintifego  - squirrel monkeys
+stagely  - stag beetle
+staggeringly  - stag beetle
+stagnantly  - stag beetle
+stagnate  - stag beetle
+stilar  - stilt
+still  - stilt
+stillatitious  - stilt
+stillatory  - stilt
+stillicidious  - stilt
+stilliform  - stilt
+stilly  - stilt
+stingily  - stingless bees
+stingily  - stink bug
+stingless  - stingless bees
+stingless  - stink bug
+stingy  - stingless bees
+stingy  - stink bug
+stinkingly  - stingless bees
+stinkingly  - stink bug
+stintless  - stingless bees
+stintless  - stink bug
+stonily  - stone curlew
+stonily  - stone dwelling centipede
+stonish  - stone curlew
+stonish  - stone dwelling centipede
+striate  - striped dolphins
+striate  - striped hyena
+strictly  - striped dolphins
+strictly  - striped hyena
+strident  - striped dolphins
+strident  - striped hyena
+stridulatory  - striped dolphins
+stridulatory  - striped hyena
+strifeful  - striped dolphins
+strifeful  - striped hyena
+strigate  - striped dolphins
+strigate  - striped hyena
+strigine  - striped dolphins
+strigine  - striped hyena
+strigous  - striped dolphins
+strigous  - striped hyena
+stringed  - striped dolphins
+stringed  - striped hyena
+stringless  - striped dolphins
+stringless  - striped hyena
+striped  - striped dolphins
+striped  - striped hyena
+sugared  - sugar maple borer beetle
+sugarless  - sugar maple borer beetle
+sugary  - sugar maple borer beetle
+sumatran  - sumatran rhinoceros
+swift  - swiftlet
+swiftfoot  - swiftlet
+swiftly  - swiftlet
+syrian  - syrian hamster
+tangent  - tangle web spiders
+tangental  - tangle web spiders
+tangential  - tangle web spiders
+tangentially  - tangle web spiders
+tangible  - tangle web spiders
+tanglingly  - tangle web spiders
+tangly  - tangle web spiders
+tarantulated  - tarantula spider
+tern  - tern
+terneplate  - tern
+ternion  - tern
+thomsonian  - thomson&#8217;s gazelle
+tigerine  - tiger
+tigerine  - tiger shark
+tigerine  - tigers
+tigerish  - tiger
+tigerish  - tiger shark
+tigerish  - tigers
+toadish  - toad
+tort  - tortoise
+tortile  - tortoise
+tortious  - tortoise
+tortiously  - tortoise
+tortive  - tortoise
+tortulous  - tortoise
+tortuose  - tortoise
+tortuous  - tortoise
+torturable  - tortoise
+torturingly  - tortoise
+touch  - toucan
+touchable  - toucan
+touchily  - toucan
+touchy  - toucan
+trapezate  - trapdoor spider
+trapeziform  - trapdoor spider
+trapezoidal  - trapdoor spider
+trappean  - trapdoor spider
+trappy  - trapdoor spider
+troublable  - trout
+trouble  - trout
+troublesome  - trout
+troublous  - trout
+vulturish  - vulture
+vulturous  - vulture
+wallowish  - wallaby
+warblingly  - warbler
+waspish  - wasp
+waspish  - wasps
+waterish  - water beetle
+waterless  - water beetle
+watery  - water beetle
+weasy  - weasel
+weevily  - weevil beetle
+west  - west african manatee
+west  - west indian manatee
+west  - western lowland gorillas
+westering  - west african manatee
+westering  - west indian manatee
+westering  - western lowland gorillas
+westerly  - west african manatee
+westerly  - west indian manatee
+westerly  - western lowland gorillas
+westernmost  - west african manatee
+westernmost  - west indian manatee
+westernmost  - western lowland gorillas
+westmost  - west african manatee
+westmost  - west indian manatee
+westmost  - western lowland gorillas
+westward  - west african manatee
+westward  - west indian manatee
+westward  - western lowland gorillas
+westwardly  - west african manatee
+westwardly  - west indian manatee
+westwardly  - western lowland gorillas
+westy  - west african manatee
+westy  - west indian manatee
+westy  - western lowland gorillas
+whally  - whale
+whally  - whales
+whither  - white bengal tiger
+whither  - white rhino
+whither  - white stork birds
+whither  - white-clawed crayfish
+whitherward  - white bengal tiger
+whitherward  - white rhino
+whitherward  - white stork birds
+whitherward  - white-clawed crayfish
+whitish  - white bengal tiger
+whitish  - white rhino
+whitish  - white stork birds
+whitish  - white-clawed crayfish
+whitson  - white bengal tiger
+whitson  - white rhino
+whitson  - white stork birds
+whitson  - white-clawed crayfish
+wilded  - wild boar
+wilded  - wild rabbits
+wilded  - wildebeest
+wilder  - wild boar
+wilder  - wild rabbits
+wilder  - wildebeest
+wildish  - wild boar
+wildish  - wild rabbits
+wildish  - wildebeest
+wildly  - wild boar
+wildly  - wild rabbits
+wildly  - wildebeest
+wintery  - winter white russian hamster
+wolf  - wolf
+wolf  - wolf spider
+wolframic  - wolf
+wolframic  - wolf spider
+wolvish  - wolverine
+wolvish  - wolves
+womby  - wombat
+wrynecked  - wryneck
