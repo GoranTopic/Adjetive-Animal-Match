@@ -30,10 +30,6 @@ bool compare_first_char_string(const string &adj, const string &animal, int char
 } 
 
 
-
-
-
-
 int main(){
 	
 	set<string> adjs;
