@@ -2,7 +2,8 @@
 
 ## About
 Do you have a “*healthy*” obsession with matching adjectives and animal name?
-Do you get sweet pleasure in your body when they start with same letters:
+Do you get sweet pleasure in your body when they start with same letters?
+
 Does the sound of:
 
 >  "*Altruistic – Alligator*",
