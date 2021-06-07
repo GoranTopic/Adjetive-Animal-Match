@@ -4,9 +4,13 @@
 Do you have a “*healthy*” obsession with matching adjectives and animal name?
 Do you get sweet pleasure in your body when they start with same letters:
 Does the sound of:
+
 >  "*Altruistic – Alligator*",
+  
 or 
-> "*Chimeric – Chimpanzee*",
+
+> "*Chimeric – Chimpanzee*"
+ 
 Galvanizes you to the very core? 
 **Then this program is for you!**
 
