@@ -12,29 +12,30 @@ or
 > "*Chimeric – Chimpanzee*"
  
 Galvanizes you to the very core? 
+
 **Then this program is for you!**
 
-This matches such as: 
+With matches such as: 
  >"*Cheerful - Cheetah*",
- "*Hippy  - Hippopotamus*"
- "*Honest  - Honey bee*"
- "*Troublesome  - Trout*"
- "*Ostentatious  - Ostrich*"
- "*Pandemic  - Panda*"
- "*Molecular  - Mole*"
- "*Goofy  - Goose*"
- "*Flaming  - Flamingo*"
- "*Centennial  - Centipede*"
- "*Paradoxical - Parrot*"
- “*Chilled - Chinchilla*”
- “*Caribbean  - Caribou*”
- “*Buzzardly - Buzzard*”
-“*Corny  - Corncrake*”
-“*Crooked - Crocodile*”
-“*Dingy - Dingo*”
-“*Earthbound - Earthworm*”
-“*Fishy - Fish*”
-“*Galactic  - Galapagos penguin*”
+ "*Hippy  - Hippopotamus*",
+ "*Honest  - Honey bee*",
+ "*Troublesome  - Trout*",
+ "*Ostentatious  - Ostrich*",
+ "*Pandemic  - Panda*",
+ "*Molecular  - Mole*",
+ "*Goofy  - Goose*",
+ "*Flaming  - Flamingo*",
+ "*Centennial  - Centipede*",
+ "*Paradoxical - Parrot*",
+ “*Chilled - Chinchilla*”,
+ “*Caribbean  - Caribou*”,
+ “*Buzzardly - Buzzard*”,
+“*Corny  - Corncrake*”,
+“*Crooked - Crocodile*”,
+“*Dingy - Dingo*”,
+“*Earthbound - Earthworm*”,
+“*Fishy - Fish*”,
+“*Galactic  - Galapagos penguin*”,
 
 Written tin C++, it takes a list of adjectives I surreptitiously found on the internet and a list of Animals I stole. It combines them to make a new list of Adjectives and Animals with matching starts. The number of letters it must match can be changed from 6 to 2 to 1.
 
@@ -51,7 +52,8 @@ Such as: `./program`
 It will automatically look of file "adjectives.txt" and "adjectives.txt" and write to standard output.
 From there you can do `./program > adj-animal.txt` to save the list.
 
-To compile the code you can run `g++ main.ccp -o program` 
+To compile the code you can run
+`g++ main.ccp -o program` 
 
 The main code can be found at **main.ccp**
 You can change the number of needed letter to make a match by changing the value of Chars_num in the code:
