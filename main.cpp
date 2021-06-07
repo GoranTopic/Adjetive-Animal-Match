@@ -35,7 +35,7 @@ int main(){
 	set<string> adjs;
 	set<string> animals;
 	string str;
-	int chars_num = 4;
+	int chars_num = 4; // change this number to set number of statrting letter need tot make a match
 
 	//read adjetives from file into array
 	ifstream adjfile("adjectives.txt");

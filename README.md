@@ -15,6 +15,7 @@ If feel exitement galvanizing your very core with combinations such as:
  "*Goofy  - Goose*"
  "*Flaming  - Flamingo*"
  "*Centennial  - Centipede*"
+ "*Paradoxical - Parrot*"
 
 **Then this program is for you!**
 
@@ -34,4 +35,7 @@ It will atomaticaly look of file "adjectives.txt" and "adjectives.txt" and write
 From there you can do `./program > adj-animal.txt` to save the list.
 
 The main code can be found at **main.ccp**
-
+You can change the number of needed letter to make a match by changing the value of Chars_num in the code:
+	`int chars_num = 4;`
+    	or
+	`int chars_num = 3;`

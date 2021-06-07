@@ -88,17 +88,17 @@ Christmas Beetle
 Cicada Killer Wasps
 Click Beetle
 Commerson Dolphin
-Common Buzzard
-Common Dolphin
-Common Frog
-Common Hippopotamus
-Common Kingfisher
-Common Lizard
-Common Newt
-Common Palm Civet
-Common Seal
-Common Toad
-Common Wasps
+ Buzzard
+ Dolphin
+ Frog
+ Hippopotamus
+ Kingfisher
+ Lizard
+ Newt
+ Palm Civet
+ Seal
+ Toad
+ Wasps
 Copperhead Snakes
 Corncrake
 Cottonmouth Snakes
@@ -407,7 +407,7 @@ Solitary Bees
 Song Thrush
 Southern Short-tailed Shrew
 Spectacled Bear
-Spectacled/Common Caiman
+Spectacled/ Caiman
 Spider Monkey
 Spiders
 Spinner Dolphins
