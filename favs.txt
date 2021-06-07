@@ -1,12 +1,23 @@
-chilled - chinchillia
-centenarian  - centiped
-caribbean  - caribou
-buzzardly - buzzard
+"*Altruistic – Alligator*",
+"*Chimeric – Chimpanzee*",
+"*Cheerful - Cheetah*",
+"*Hippy  - Hippopotamus*"
+"*Honest  - Honey bee*"
+"*Troublesome  - Trout*"
+"*Ostentatious  - Ostrich*"
+"*Pandemic  - Panda*"
+"*Molecular  - Mole*"
+"*Goofy  - Goose*"
+"*Flaming  - Flamingo*"
+"*Centennial  - Centipede*"
+"*Paradoxical - Parrot*"
+“*Chilled - Chinchilla*”
+“*Caribbean  - Caribou*”
+“*Buzzardly - Buzzard*”
+“*Corny  - Corncrake*”
+“*Crooked - Crocodile*”
+“*Dingy - Dingo*”
+“*Earthbound - Earthworm*”
+“*Fishy - Fish*”
+“*Galactic  - Galapagos penguin*”
 
-corny  - corncrake
-crooked - crocodile
-dingy - dingo
-earthbound earthworm
-fishy - fish
-flaming  - flamingo
-galactic  - galapagos penguin
